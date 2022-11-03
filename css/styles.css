@@ -1,0 +1,38 @@
+.item-container{
+    margin-bottom: 15px;    
+}
+.item-container input{
+    width: 300px;
+    height: 15px;
+    border: 1px solid lightgreen;
+    border-radius: 3px;
+    padding: 5px;   
+    margin-left: 10px; 
+}
+.item-container .descricao{
+    width: 300px;
+    height: 15px;
+    display: inline-block;
+    text-align: right;    
+}
+
+form{
+    text-align: center;
+    margin-top: 300px;
+    border: 10px solid lightgreen;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 50px;
+}
+
+html{
+    background: black;
+    color: white;    
+}
+
+.item-container .enviar{
+    height: 30px;
+    width: 150px;
+    color: black;
+    background-color: lightgreen;
+}
